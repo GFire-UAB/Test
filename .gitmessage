@@ -21,15 +21,15 @@
 
 # ---------------------------------------------------------------------
 # MODULE: It has to identify which is the modified module.
-	  The options can be:
-	  	- Preprocessing
-	  	- Inputs
-	  	- Discretization
-	  	- Reconstruction
-	  	- Surface propagation
-	  	- Crown propagation
-	  	- Spotting
-	  	- Outputs
+#	  The options can be:
+#	  	- Preprocessing
+#	  	- Inputs
+#	  	- Discretization
+#	  	- Reconstruction
+#	  	- Surface propagation
+#	  	- Crown propagation
+#	  	- Spotting
+#	  	- Outputs
 # ---------------------------------------------------------------------
 # KEYWORDS: A group of keywords so it will be more easy to search in the future
 # ---------------------------------------------------------------------
