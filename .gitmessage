@@ -1,0 +1,45 @@
+# ---------------------------------------------------------------------
+# TITLE: It must be brief and concise, using keywords
+#
+# 	 And it has to start with one of this prefixes:
+#		- END: if it is a final code, ready to review
+#		- WIP: if it is still a work in progress
+#		
+#	 Followed by another one of this prefixes:
+#	 	- #NNN: number of related task (issue)
+#	 	- BUG: if it is related to an existing bug
+#	 	- DOC: if it is a modification of the documentation
+#	 	- IMG: if it is only aesthetic touch-ups
+#	 	- TST: if it is related to the tests
+#	 
+#	 Some examples:
+#	 	- WIP:#123: Bezier curves as discretization method
+#	 	- END:BUG: Problem with the tiff inputs
+# ---------------------------------------------------------------------
+
+# Remember that is necessary an extra blank line between title and body
+
+# ---------------------------------------------------------------------
+# MODULE: It has to identify which is the modified module.
+	  The options can be:
+	  	- Preprocessing
+	  	- Inputs
+	  	- Discretization
+	  	- Reconstruction
+	  	- Surface propagation
+	  	- Crown propagation
+	  	- Spotting
+	  	- Outputs
+# ---------------------------------------------------------------------
+# KEYWORDS: A group of keywords so it will be more easy to search in the future
+# ---------------------------------------------------------------------
+# DESCRIPTION: It has to include some extra information thats necessary like:
+#	- why this changes are needed
+#	- important information about the changes
+#	- if it can imply a compatibility break
+#	- future improvements
+#	- etc...
+# ---------------------------------------------------------------------
+
+	
+
