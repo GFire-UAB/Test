@@ -1,3 +1,4 @@
+from . import test_modules 
 
 modules = ['discretization', 'reconstruction', 'propagation/surface', 'propagation/crown', 'propagation/spotting', 'outputs', 'inputs', 'tests', '']
 
