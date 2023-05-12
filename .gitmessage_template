@@ -1,4 +1,4 @@
-# ---------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # TITLE: It must be brief and concise, using keywords
 #
 # 	 And it has to start with one of this prefixes:
@@ -15,11 +15,8 @@
 #	 Some examples:
 #	 	- WIP:#123: Bezier curves as discretization method
 #	 	- END:BUG: Problem with the tiff inputs
-# ---------------------------------------------------------------------
-
-# Remember that is necessary an extra blank line between title and body
-
-# ---------------------------------------------------------------------
+# -------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # MODULE: It has to identify which is the modified module.
 #	  The options can be:
 #	  	- Preprocessing
@@ -30,13 +27,15 @@
 #	  	- Crown propagation
 #	  	- Spotting
 #	  	- Outputs
-# ---------------------------------------------------------------------
+# -------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # KEYWORDS: A group of keywords so it will be more easy to search in the future
-# ---------------------------------------------------------------------
+# -------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # DESCRIPTION: It has to include some extra information thats necessary like:
 #	- why this changes are needed
 #	- important information about the changes
 #	- if it can imply a compatibility break
 #	- future improvements
 #	- etc...
-# ---------------------------------------------------------------------
+# -------------------------------------------------------------------------------
